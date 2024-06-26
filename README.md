@@ -55,7 +55,7 @@ Then link to the file in HTML
 ```html
 <body>
     <p>...content...</p>
-    <script type="module" src="./index.ts"></script>
+    <script type="module" src="/modal.js"></script>
 </body>
 ```
 
