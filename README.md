@@ -10,6 +10,10 @@ Modal dialog window
 
 See [smashingmagazine.com article](https://www.smashingmagazine.com/2022/04/cta-modal-build-web-component/) and [nathansmith/cta-modal](https://github.com/nathansmith/cta-modal/tree/main).
 
+## demo
+
+[See nichoth.github.io/modal](https://nichoth.github.io/modal/).
+
 ## install
 
 ```sh
