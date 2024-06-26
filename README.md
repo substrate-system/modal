@@ -82,9 +82,11 @@ modal. You would need to open/close it via your application state.
     <div slot="button">
         <p>
             <button
-            class="cta-modal-toggle"
-            type="button"
-            >Open modal two</button>
+                class="cta-modal-toggle"
+                type="button"
+            >
+                Open a modal that can't be closed
+            </button>
         </p>
     </div>
     <div slot="modal">modal content?</div>
