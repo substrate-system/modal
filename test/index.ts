@@ -4,11 +4,11 @@ import '../src/index.js'
 
 test('example', async t => {
     document.body.innerHTML += `
-        <example-component class="test">
-        </example-component>
+        <modal-window class="test">
+        </modal-window>
     `
 
-    const el = await waitFor('example-component')
+    const el = await waitFor('modal-window')
 
     t.ok(el, 'should find an element')
 })

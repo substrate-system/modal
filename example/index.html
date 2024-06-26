@@ -3,9 +3,36 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/style.css">
     <title>Example</title>
 </head>
 <body>
+    <modal-window>
+      <div slot="button">
+        <p>
+          <button
+            class="cta-modal-toggle"
+            type="button"
+          >Open modal</button>
+        </p>
+      </div>
+      <div slot="modal">modal content?</div>
+      <div slot="modal">more modal content</div>
+    </modal-window>
+
+    <modal-window closable="false">
+      <div slot="button">
+        <p>
+          <button
+            class="cta-modal-toggle"
+            type="button"
+          >Open modal two</button>
+        </p>
+      </div>
+      <div slot="modal">modal content?</div>
+      <div slot="modal">more modal content</div>
+    </modal-window>
+
     <script type="module" src="./index.ts"></script>
   </body>
 </html>
