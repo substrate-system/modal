@@ -12,7 +12,7 @@ See [smashingmagazine.com article](https://www.smashingmagazine.com/2022/04/cta-
 
 ## demo
 
-[See nichoth.github.io/modal](https://nichoth.github.io/modal/).
+See [nichoth.github.io/modal](https://nichoth.github.io/modal/).
 
 ## install
 
