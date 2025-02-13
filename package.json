@@ -3,6 +3,7 @@
   "type": "module",
   "version": "0.0.2",
   "main": "dist/index.js",
+  "description": "Modal dialog window",
   "files": [
     "./dist/*"
   ],
@@ -42,8 +43,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@bicycle-codes/debug": "^0.7.2",
-    "@bicycle-codes/dom": "^0.1.0",
+    "@substrate-system/debug": "^0.7.18",
+    "@substrate-system/dom": "^0.0.23",
     "@bicycle-codes/tapzero": "^0.10.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
     "@typescript-eslint/parser": "^8.0.0",
@@ -61,8 +62,7 @@
     "vite": "^6.0.1"
   },
   "author": "nichoth <nichoth@nichoth.com> (https://nichoth.com)",
-  "license": "MIT",
-  "description": "![tests](https://github.com/nichoth/modal/actions/workflows/nodejs.yml/badge.svg) [![types](https://img.shields.io/npm/types/@nichoth/modal?style=flat-square)](README.md) [![module](https://img.shields.io/badge/module-ESM%2FCJS-blue?style=flat-square)](README.md) [![semantic versioning](https://img.shields.io/badge/semver-2.0.0-blue?logo=semver&style=flat-square)](https://semver.org/) [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)",
+  "license": "SEE LICENSE IN LICENSE",
   "directories": {
     "example": "example",
     "test": "test"

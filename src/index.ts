@@ -1,4 +1,4 @@
-import { createDebug } from '@bicycle-codes/debug'
+import { createDebug } from '@substrate-system/debug'
 const debug = createDebug()
 
 /**
