@@ -43,7 +43,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@substrate-system/debug": "^0.7.18",
+    "@substrate-system/debug": "^0.9.0",
     "@substrate-system/dom": "^0.1.7",
     "@bicycle-codes/tapzero": "^0.10.0",
     "@typescript-eslint/eslint-plugin": "^8.0.0",
